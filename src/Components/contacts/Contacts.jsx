@@ -39,7 +39,7 @@ const Contacts = () => {
           <article className="contact__option">
             <MdOutlineMail className="contact__optio-icon" />
             <h4>Email</h4>
-            <h5>abuomer582020@gmail.com</h5>
+            <h5>kh.mohmed970@gmail.com</h5>
             <a href="mailto:abuomer582020@gmail.com">send a message</a>
           </article>
           <article className="contact__option">
@@ -51,7 +51,7 @@ const Contacts = () => {
           <article className="contact__option">
             <FaWhatsapp className="contact__optio-icon" />
             <h4>WhatsApp</h4>
-            <h5>kh.mohmed97@gmail.com</h5>
+            <h5>+97155735597</h5>
             <a href="https://api.whatsapp.com/send?phone+249121239919">
               send a message
             </a>

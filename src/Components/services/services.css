@@ -49,3 +49,7 @@
 .service__list p {
     font-size: 0.9rem;
 }
+
+#services {
+    margin-top: 1rem;
+}
