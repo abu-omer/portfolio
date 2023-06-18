@@ -1,9 +1,9 @@
 import React from "react";
 import "./header.css";
 import CTA from "./CTA";
-import me from "../../assets/mohamed khalid.jpg";
+import me from "../../assets/mohamed khalid.png";
 import HeaderSocials from "./HeaderSocials";
-import MotionText from "../MotionText";
+import MotionText from "../motion/MotionText";
 const Header = () => {
   return (
     <header>
